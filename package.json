@@ -1,0 +1,19 @@
+{
+  "name": "mm2-value-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for looking up Murder Mystery 2 item values using the RBLXValue API",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["discord", "bot", "mm2", "murder-mystery-2", "roblox", "rblxvalue", "values"],
+  "author": "UN6107617",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
