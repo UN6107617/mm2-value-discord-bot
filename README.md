@@ -86,6 +86,10 @@ Full API docs at [docs.rblxvalue.com](https://docs.rblxvalue.com)
 - [Get API Key](https://rblxvalue.com/developer) — Free API key
 - [Discord Server](https://discord.gg/2puhtMjdnw) — Support and community
 
+## Powered by
+
+[RBLXValue API](https://rblxvalue.com/developer) — free public MM2 value API.
+
 ## License
 
 MIT
